@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Tilt Prism';
+}
+
+div {
+  display: flex;
+  text-align: center;
+}
