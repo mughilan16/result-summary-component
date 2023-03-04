@@ -217,7 +217,7 @@ body {
     flex-direction: column;
     position: relative;
     margin: 0;
-    box-shadow: 0;
+    box-shadow: none;
     width: 80vw;
     top: 0;
     left: 0;
